@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 
 body {
   background: linear-gradient(95deg,blue,purple);
@@ -6,7 +6,7 @@ body {
   font-family: "Poppins";
 }
 .message {
-  margin: 5em 0 2em;
+  margin: 2em 0 2em;
   text-align: center;
 }
 .images {
